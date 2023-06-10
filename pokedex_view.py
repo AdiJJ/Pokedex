@@ -28,7 +28,7 @@ Functions/Methods:
     goToPokemonPage -- Hides the main page and opens the page of the specific Pokemon that has been chosen
     mainloop -- Starts the application and executes what we wish to execute in an application
 """
-import pokemon
+import pokemon_page
 import re
 import tkinter as tk
 import os
@@ -263,7 +263,7 @@ class App:
             event: Event signifying the double click on an element of the ListBox
         """
         pokemonName = " ".join(self.pokemon_listbox.get(self.pokemon_listbox.curselection()).strip().split(" ")[1:])
-        pokemonClass = pokemon.Pokemon(self.window, self.main_frame, pokemonName)
+        pokemonClass = pokemon_page.Pokemon(self.window, self.main_frame, pokemonName)
         pokemonClass.grid(row=0, column=0)
         self.main_frame.grid_forget()
 
