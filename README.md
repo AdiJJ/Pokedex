@@ -52,7 +52,7 @@ py -m pokedex_view.py
 * Arranging all the widget in a pleasing way.
 
 ## Lessons Learned
-Now I am better acquainted with beautifulsoup4 and tkinter libraries and what they have to offer, as well I am now more familiar with object-oriented programming using PYTHON language. Of course things from "[Challanges faced](#Challanges-faced)" aren't as challanging as they were at the beggining of this project. 
+Now I am better acquainted with beautifulsoup4 and tkinter libraries and what they have to offer, as well I am now more familiar with object-oriented programming using PYTHON language. Of course points presented in "[Challanges faced](#Challanges-faced)" section aren't as challanging as they were at the beggining of this project. 
 
 
 
