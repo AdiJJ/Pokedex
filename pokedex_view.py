@@ -5,7 +5,7 @@ with the possibility of sorting, filtering through the list of all the Pokemon, 
 Pokemon page of the Pokemon chosen from the list.
 
 Libraries/Modules:
-    pokemon -- Module used for creating a page/frame for a specific Pokemon
+    pokemon_page -- Module used for creating a page/frame for a specific Pokemon
     re -- Provides support for regular expressions. Allows better filtering and sorting of the Pokemon list
     tkinter -- Allows creation of graphical user interface. Thanks to it the Pokedex can be properly displayed
     os -- Provides a way to interact with operating system. Thanks to is we can get a list of all Pokemon saved in a Pokemon_Info directory
