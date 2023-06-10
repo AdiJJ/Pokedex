@@ -23,6 +23,10 @@ Running the **pokedex_view.py** which is a GUI application that uses data extrac
 py -m pokedex_view.py
 ```
 ## Example of use
+Sorting by number:
+![sorting_by_number](https://github.com/AdiJJ/Pokedex/assets/129506645/95b8888f-e6a9-4677-8e64-a0335ab3cf41)
+Sorting by name:
+
 
 ## Key features
 **html_handler.py** allows us getting information on all 1010 Pokemon. It scrapes the https://pokemondb.net/pokedex/national website and saves the images and text files containing information about Pokemon's type, species, height, weight, evolution line and their brief description.<br /><br />
