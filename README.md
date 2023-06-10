@@ -36,6 +36,8 @@ Search by number:<br />
 ![search_by_number](https://github.com/AdiJJ/Pokedex/assets/129506645/fc82516c-f5cd-4d94-aa71-dd9c92d817d4)
 <br />
 Search between two numbers:<br />
+![search_between_numbers](https://github.com/AdiJJ/Pokedex/assets/129506645/43c665fa-4789-48b8-9a3f-1f91d2ce8adb)
+<br />
 
 ## Key features
 **html_handler.py** allows us getting information on all 1010 Pokemon. It scrapes the https://pokemondb.net/pokedex/national website and saves the images and text files containing information about Pokemon's type, species, height, weight, evolution line and their brief description.<br /><br />
