@@ -16,6 +16,8 @@ Running the **html_handler** used for extracting information from the website (n
 ```
 py -m html_handler.py
 ```
+(May take a couple of minutes for the program to finish)
+<br /><br />
 Running the **pokedex_view** which is a GUI application that uses data extracted with a use of **html_handler**:
 ```
 py -m pokedex_view.py
