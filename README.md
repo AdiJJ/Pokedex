@@ -1,7 +1,6 @@
 # Pokedex
 A Web Scraping and GUI applictaions which extract information about all the known Pokemon and later uses that information to present a comprehensive and interactive encyclopedia for any interested person who wants to learn more about those magical creatures.<br />
-(More in the "[Key features](#Key features)" section)
-[Key features](## How to run)
+(More in the "[Key features](#Key-features)" section)
 
 ## Dependencies
 Install needed libraries and modules:
