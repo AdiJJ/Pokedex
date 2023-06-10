@@ -44,7 +44,12 @@ py -m pokedex_view.py
 ![pokemon_page](https://github.com/AdiJJ/Pokedex/assets/129506645/da1633cf-6459-4ffd-b86a-3ee7141a8292)
 
 ## Challanges faced
-
+* Actually receiving what I want from the website, that is better understanding html structure and methods to scrape it properly.
+* Learning about new before unknown tkinter widgets and their functionality (for example: how to insert data into Listbox and how to call method after clicking on its element).
+* Changing between two pages.
+* Managing displaying correct information for proper Pokemon.
+* Displaying the image properly.
+* Arranging all the widget in a pleasing way.
 
 ## Lessons Learned
 
