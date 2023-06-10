@@ -1,0 +1,8 @@
+Steel
+Gear Pokémon
+0.3 m (1′00″)
+21.0 kg (46.3 lbs)
+Klink->Klang->Klinklang
+The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.
+#0598 Ferrothorn
+#0600 Klang

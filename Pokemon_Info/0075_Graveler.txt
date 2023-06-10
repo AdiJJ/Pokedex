@@ -1,0 +1,8 @@
+Rock Ground
+Rock Pokémon
+1.0 m (3′03″)
+105.0 kg (231.5 lbs)
+Geodude->Graveler->Golem
+Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.
+#0074 Geodude
+#0076 Golem

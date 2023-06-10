@@ -1,0 +1,8 @@
+Grass Poison
+Seed Pokémon
+2.0 m (6′07″)
+100.0 kg (220.5 lbs)
+Bulbasaur->Ivysaur->Venusaur
+The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.
+#0002 Ivysaur
+#0004 Charmander

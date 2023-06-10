@@ -1,0 +1,8 @@
+Rock Ground
+Rock Pokémon
+0.4 m (1′04″)
+20.0 kg (44.1 lbs)
+Geodude->Graveler->Golem
+Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.
+#0073 Tentacruel
+#0075 Graveler

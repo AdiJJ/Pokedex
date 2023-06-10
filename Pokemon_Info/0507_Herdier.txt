@@ -1,0 +1,8 @@
+Normal
+Loyal Dog Pokémon
+0.9 m (2′11″)
+14.7 kg (32.4 lbs)
+Lillipup->Herdier->Stoutland
+It has black, cape-like fur that is very hard and decreases the amount of damage it receives.
+#0506 Lillipup
+#0508 Stoutland

@@ -1,0 +1,8 @@
+Electric
+EleTadpole Pokémon
+0.3 m (1′00″)
+0.4 kg (0.9 lbs)
+Tadbulb->Bellibolt
+Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.
+#0937 Ceruledge
+#0939 Bellibolt

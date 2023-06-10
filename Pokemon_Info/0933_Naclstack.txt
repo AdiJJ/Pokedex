@@ -1,0 +1,8 @@
+Rock
+Rock Salt Pokémon
+0.6 m (2′00″)
+105.0 kg (231.5 lbs)
+Nacli->Naclstack->Garganacl
+This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey’s body.
+#0932 Nacli
+#0934 Garganacl

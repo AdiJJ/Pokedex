@@ -1,0 +1,8 @@
+Grass Poison
+Flycatcher Pokémon
+1.0 m (3′03″)
+6.4 kg (14.1 lbs)
+Bellsprout->Weepinbell->Victreebel
+It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.
+#0069 Bellsprout
+#0071 Victreebel

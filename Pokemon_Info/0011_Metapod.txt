@@ -1,0 +1,8 @@
+Bug
+Cocoon Pokémon
+0.7 m (2′04″)
+9.9 kg (21.8 lbs)
+Caterpie->Metapod->Butterfree
+This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.
+#0010 Caterpie
+#0012 Butterfree

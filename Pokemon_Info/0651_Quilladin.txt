@@ -1,0 +1,8 @@
+Grass
+Spiny Armor Pokémon
+0.7 m (2′04″)
+29.0 kg (63.9 lbs)
+Chespin->Quilladin->Chesnaught
+It relies on its sturdy shell to deflect predators’ attacks. It counterattacks with its sharp quills.
+#0650 Chespin
+#0652 Chesnaught

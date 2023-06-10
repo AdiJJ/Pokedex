@@ -1,0 +1,8 @@
+Grass Poison
+Seed Pokémon
+1.0 m (3′03″)
+13.0 kg (28.7 lbs)
+Bulbasaur->Ivysaur->Venusaur
+When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.
+#0001 Bulbasaur
+#0003 Venusaur

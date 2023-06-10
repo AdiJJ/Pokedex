@@ -1,0 +1,8 @@
+Water
+Turtle Pokémon
+1.0 m (3′03″)
+22.5 kg (49.6 lbs)
+Squirtle->Wartortle->Blastoise
+Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.
+#0007 Squirtle
+#0009 Blastoise

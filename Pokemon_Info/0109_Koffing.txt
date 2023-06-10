@@ -1,0 +1,8 @@
+Poison
+Poison Gas Pokémon
+0.6 m (2′00″)
+1.0 kg (2.2 lbs)
+Koffing->Weezing->Weezing
+Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.
+#0108 Lickitung
+#0110 Weezing

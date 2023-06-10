@@ -1,0 +1,8 @@
+Water
+Tadpole Pokémon
+1.0 m (3′03″)
+20.0 kg (44.1 lbs)
+Poliwag->Poliwhirl->Poliwrath
+Capable of living in or out of water. When out of water, it sweats to keep its body slimy.
+#0060 Poliwag
+#0062 Poliwrath
