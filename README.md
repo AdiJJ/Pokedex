@@ -24,7 +24,7 @@ py -m pokedex_view.py
 ```
 ## Example of use
 Sorting by number:<br />
-![sorting_by_number1](https://github.com/AdiJJ/Pokedex/assets/129506645/e0ecbc1e-053f-4868-bfbd-2f4cf672f997)
+![sorting_by_number1](https://github.com/AdiJJ/Pokedex/assets/129506645/00207e07-d649-456d-84e2-b9f5b063722f)
 <br />
 Sorting by name:
 
