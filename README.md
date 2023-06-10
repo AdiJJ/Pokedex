@@ -23,8 +23,8 @@ Running the **pokedex_view.py** which is a GUI application that uses data extrac
 py -m pokedex_view.py
 ```
 ## Example of use
-Sorting by number:
-![sorting_by_number1](https://github.com/AdiJJ/Pokedex/assets/129506645/943c00b7-ca7c-469e-aef1-21f41233d371)
+Sorting by number:<br />
+![sorting_by_number1](https://github.com/AdiJJ/Pokedex/assets/129506645/695294dd-7e80-4b30-a084-3700777aaccc)
 <br />
 Sorting by name:
 
