@@ -41,6 +41,9 @@ Search between two numbers:<br />
 Remove filters and applied sorting:<br />
 ![remove_filters](https://github.com/AdiJJ/Pokedex/assets/129506645/15d0e057-917f-4278-8b7a-a71d7c3200ac)
 <br />
+Navigating through Pokemon's page:<br />
+![pokemon_page](https://github.com/AdiJJ/Pokedex/assets/129506645/da1633cf-6459-4ffd-b86a-3ee7141a8292)
+<br />
 
 
 ## Key features
