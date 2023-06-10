@@ -26,7 +26,7 @@ py -m pokedex_view.py
 **html_handler.py** allows us getting information on all 1010 Pokemon. It scrapes the https://pokemondb.net/pokedex/national website and saves the images and text files containing information about Pokemon's type, species, height, weight, evolution line and their brief description.<br /><br />
 **pokedex_view.py** is the main page of the Pokedex.It shows full list of all the Pokemon, allows sorting the list by name or number (both descending and ascending). It provides ability to filter the list by part or full name or number and showing only Pokemons with numbers from and to inputted ones. Moreover be double clicking on the lists element we are taken to this Pokemon's page.<br /><br />
 **pokemon_page.py** is the chosen Pokemon's page. We can view it's full description, obtained thanks to html_handler.py and from this page go to the different Pokemon's page, which is either before or after it in the Pokedex or is in this Pokemon's evolutionary line. Other than that we are able to go back to the main page of the Pokedex.
-## Example of use
+## Examples of use
 * **Sorting by number:**<br />
 ![sorting_by_number1](https://github.com/AdiJJ/Pokedex/assets/129506645/00207e07-d649-456d-84e2-b9f5b063722f)
 * **Sorting by name:**<br />
