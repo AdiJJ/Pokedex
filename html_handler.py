@@ -166,5 +166,6 @@ class PokemonInfo():
                 self.createPokemon(link + a.get('href'))
 
 
-pokemon_initiator = PokemonInfo()
-pokemon_initiator.createAllPokemon()
+if __name__=="__main__":
+    pokemon_initiator = PokemonInfo()
+    pokemon_initiator.createAllPokemon()

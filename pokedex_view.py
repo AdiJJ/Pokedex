@@ -313,6 +313,6 @@ class App:
         """
         self.window.mainloop()
 
-
-game_instance = App()
-game_instance.mainloop()
+if __name__=="__main__":
+    game_instance = App()
+    game_instance.mainloop()
