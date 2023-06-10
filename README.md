@@ -22,7 +22,11 @@ Running the **pokedex_view** which is a GUI application that uses data extracted
 ```
 py -m pokedex_view.py
 ```
+## Example of use
+
 ## Key features
 **html_handler** allows us getting information on all 1010 Pokemon. It scrapes the https://pokemondb.net/pokedex/national website and saves the images and text files containing information about Pokemon's type, species, height, weight, evolution line and their brief description.<br /><br />
-**pokedex_view** shows
+**pokedex_view** shows full list of all the Pokemon, allows sorting the list by name or number (both descending and ascending). It provides ability to filter the list by part or full name or number and showing only Pokemons with numbers from and to inputted ones. Moreover be double clicking on the lists element we are taken to this Pokemon's page.<br /><br />
+**pokemon** is the chosen Pokemon's page
+
 
