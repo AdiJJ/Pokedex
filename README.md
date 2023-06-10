@@ -1,5 +1,5 @@
 # Pokedex
-A Web Scraping and GUI applictaions which extract information about all the known Pokemon and later uses that information to present a comprehensive and interactive encyclopedia for any interested person who wants to learn more about those magical creatures.<br />
+A Web Scraping program which extracts information about all the known Pokemon and GUI applictaion which uses the scraped information to present a comprehensive and interactive Pokemon encyclopedia for any interested person who wants to learn more about those magical creatures.<br />
 (More in the "[Key features](#Key-features)" section)
 
 ## Dependencies
@@ -26,6 +26,7 @@ py -m pokedex_view.py
 **html_handler.py** allows us getting information on all 1010 Pokemon. It scrapes the https://pokemondb.net/pokedex/national website and saves the images and text files containing information about Pokemon's type, species, height, weight, evolution line and their brief description.<br /><br />
 **pokedex_view.py** is the main page of the Pokedex.It shows full list of all the Pokemon, allows sorting the list by name or number (both descending and ascending). It provides ability to filter the list by part or full name or number and showing only Pokemons with numbers from and to inputted ones. Moreover be double clicking on the lists element we are taken to this Pokemon's page.<br /><br />
 **pokemon_page.py** is the chosen Pokemon's page. We can view it's full description, obtained thanks to html_handler.py and from this page go to the different Pokemon's page, which is either before or after it in the Pokedex or is in this Pokemon's evolutionary line. Other than that we are able to go back to the main page of the Pokedex.
+
 ## Examples of use
 * **Sorting by number:**<br />
 ![sorting_by_number1](https://github.com/AdiJJ/Pokedex/assets/129506645/00207e07-d649-456d-84e2-b9f5b063722f)
@@ -41,6 +42,12 @@ py -m pokedex_view.py
 ![remove_filters](https://github.com/AdiJJ/Pokedex/assets/129506645/15d0e057-917f-4278-8b7a-a71d7c3200ac)
 * **Navigating through Pokemon's page:**<br />
 ![pokemon_page](https://github.com/AdiJJ/Pokedex/assets/129506645/da1633cf-6459-4ffd-b86a-3ee7141a8292)
+
+## Challanges faced
+
+
+## Lessons Learned
+
 
 
 
