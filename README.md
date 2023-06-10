@@ -29,19 +29,19 @@ py -m pokedex_view.py
 
 ## Examples of use
 * **Sorting by number:**<br />
-![sorting_by_number1](https://github.com/AdiJJ/Pokedex/assets/129506645/00207e07-d649-456d-84e2-b9f5b063722f)
+![sorting_by_number1](https://github.com/AdiJJ/Pokedex/assets/129506645/e920b763-0fe1-4bde-8df2-53f2f40d38e9)
 * **Sorting by name:**<br />
-![sorting_by_name](https://github.com/AdiJJ/Pokedex/assets/129506645/be798907-0e7b-4d01-9fc8-98e048e5edf7)
+![sorting_by_name](https://github.com/AdiJJ/Pokedex/assets/129506645/afbee12a-514d-4e4e-93b0-0597c4ba4d2d)
 * **Search by name:**<br />
-![search_by_name](https://github.com/AdiJJ/Pokedex/assets/129506645/49d179d1-e701-46b0-b0fd-4ef636bf46e8)
+![search_by_name](https://github.com/AdiJJ/Pokedex/assets/129506645/8db26e11-6d0c-40b3-b911-3e4a77d4e32b)
 * **Search by number:**<br />
-![search_by_number](https://github.com/AdiJJ/Pokedex/assets/129506645/fc82516c-f5cd-4d94-aa71-dd9c92d817d4)
+![search_by_number](https://github.com/AdiJJ/Pokedex/assets/129506645/9cda0b31-cd53-4823-9df7-fab37ddc95a8)
 * **Search between two numbers:**<br />
-![search_between_numbers](https://github.com/AdiJJ/Pokedex/assets/129506645/43c665fa-4789-48b8-9a3f-1f91d2ce8adb)
+![search_between_numbers](https://github.com/AdiJJ/Pokedex/assets/129506645/6b1a4d85-56c1-4746-a03c-af1904f13c45)
 * **Remove filters and applied sorting:**<br />
-![remove_filters](https://github.com/AdiJJ/Pokedex/assets/129506645/15d0e057-917f-4278-8b7a-a71d7c3200ac)
+![remove_filters](https://github.com/AdiJJ/Pokedex/assets/129506645/6ec7160e-c4bd-4093-8508-fb6887a86fe6)
 * **Navigating through Pokemon's page:**<br />
-![pokemon_page](https://github.com/AdiJJ/Pokedex/assets/129506645/da1633cf-6459-4ffd-b86a-3ee7141a8292)
+![pokemon_page](https://github.com/AdiJJ/Pokedex/assets/129506645/0a319173-6ac2-4059-b89e-a530a5e22b00)
 
 ## Challanges faced
 * Actually receiving what I want from the website, that is better understanding html structure and methods to scrape it properly.
