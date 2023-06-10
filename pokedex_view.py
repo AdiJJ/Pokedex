@@ -62,6 +62,9 @@ class App:
         name_search_bar which allows filtering based on entered name
         number_search_bar which allows filtering based on entered number
         number_search_ToFrom is a Button which allows filtering between two numbers entered
+
+        Returns:
+            None
         """
         self.window = tk.Tk()
         self.window.title("Pokedex")
@@ -82,7 +85,11 @@ class App:
         self.pokemon_listbox.grid(row=1, column=0)
         self.pokemon_listbox.bind('<Double-1>', self.goToPokemonPage)
 
-        self.pokemon_list = os.listdir("./Pokemon_Info")
+        #If there is no Pokemon_Info directory the Pokemon list will be empty
+        try:
+            self.pokemon_list = os.listdir("./Pokemon_Info")
+        except:
+            self.pokemon_list =[]
         self.pokemon_list_copy = self.pokemon_list.copy()
 
         self.insertPokemonList()
@@ -132,6 +139,9 @@ class App:
     def insertPokemonList(self):
         """
         Inserts all the pokemon from the list to Pokemon ListBox
+
+        Returns:
+            None
         """
         self.pokemon_listbox.delete(0, tk.END)
         for pk in self.pokemon_list:
@@ -141,6 +151,9 @@ class App:
     def removeFilters(self):
         """
         Removes all the filters and sorting performed on the pokemon list and calls insertPokemon list method
+
+        Returns:
+            None
         """
         self.pokemon_list = self.pokemon_list_copy.copy()
         self.insertPokemonList()
@@ -163,6 +176,9 @@ class App:
 
         Args:
             args: The elements of the Order Menu
+
+        Returns:
+            None
         """
         if self.clicked.get() == "by number desc↓":
             self.pokemon_list.sort(reverse=True)
@@ -180,6 +196,9 @@ class App:
 
         Args:
             condition: a name or part of it needed to be found in the list
+
+        Returns:
+            None
         """
         self.pokemon_listbox.delete(0, tk.END)
         new_pokemon_list = []
@@ -192,6 +211,9 @@ class App:
     def searchName(self):
         """
         Gets the input from the Name Entry field and calls filterName method
+
+        Returns:
+            None
         """
         entry = self.name_search_bar.get()
         self.name_search_bar.delete(0, tk.END)
@@ -203,6 +225,9 @@ class App:
 
         Args:
             condition: a number or part of it needed to be found in the list
+
+        Returns:
+            None
         """
         self.pokemon_listbox.delete(0, tk.END)
         new_pokemon_list = []
@@ -215,6 +240,9 @@ class App:
     def searchNumber(self):
         """
         Gets the input from the Number Entry field and calls filterNumber method
+
+        Returns:
+            None
         """
         entry = self.number_search_bar.get()
         self.number_search_bar.delete(0, tk.END)
@@ -227,6 +255,9 @@ class App:
         Args:
             from_: a number from which the list should include the elements of the Pokemon list
             to_: a number to which the list should include the elements of the Pokemon list
+
+        Returns:
+            None
         """
         self.pokemon_listbox.delete(0, tk.END)
         self.pokemon_list.sort()
@@ -248,6 +279,9 @@ class App:
     def searchBetweenNumbers(self):
         """
         Gets the input from the From Number Entry and To Number Entry fields and calls filterBetweenNumbers method
+
+        Returns:
+            None
         """
         from_ = self.number_search_from.get()
         to_ = self.number_search_to.get()
@@ -261,6 +295,9 @@ class App:
 
         Args:
             event: Event signifying the double click on an element of the ListBox
+
+        Returns:
+            None
         """
         pokemonName = " ".join(self.pokemon_listbox.get(self.pokemon_listbox.curselection()).strip().split(" ")[1:])
         pokemonClass = pokemon_page.Pokemon(self.window, self.main_frame, pokemonName)
@@ -270,6 +307,9 @@ class App:
     def mainloop(self):
         """
         Starts the application and executes what we wish to execute in an application
+
+        Returns:
+            None
         """
         self.window.mainloop()
 

@@ -60,6 +60,9 @@ class PokemonInfo():
 
         Args:
              pokemon: The input web page url
+
+        Returns:
+            None
         """
         soup = BeautifulSoup(self.getHtmlContent(pokemon), "html.parser")
         name = soup.find('h1').text
@@ -143,6 +146,9 @@ class PokemonInfo():
         """
         Creates folders to keep Pokemon information in, gets all individual Pokemon web pages urls
         and calls createPokemon method on all of them
+
+        Returns:
+            None
         """
         soup = BeautifulSoup(self.getHtmlContent("https://pokemondb.net/pokedex/national"), "html.parser")
         link = "https://pokemondb.net"
